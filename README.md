@@ -26,7 +26,7 @@
 - **Semi-Automated Annotation**:
   - Utilize the Hindi Named Entity Recognition model developed by IIT Bombay for semi-automated annotation.
   - The model processes sentences in batches, significantly speeding up the annotation process.
-  - [IIT Bombay Hindi NER Model]([https://github.com/IIT-Bombay/hindi-ner](https://github.com/cfiltnlp/HiNER))
+  - [IIT Bombay Hindi NER Model](https://github.com/cfiltnlp/HiNER)
 
 ### 3. Model Training
 - **Image Captioning**:
