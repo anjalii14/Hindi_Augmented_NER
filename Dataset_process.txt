@@ -1,0 +1,7 @@
+1.Datset Collection:NewsAPI -https://newsapi.org/s/india-news-api
+Generate your api key and change in the code .Change language accordingle and keywords.
+Datacollected will be stored in a file .
+
+2.Use the code to convert the text and imagelink to excel file.
+copy image links column and save in one file and run the code2 for dowmloading images by giving image id.(in the code give a starting id for images)
+
